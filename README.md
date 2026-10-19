@@ -206,10 +206,4 @@ python -m streamlit run app.py
 - FAISS
 - python-dotenv
 
-## Security note
 
-This project uses `allow_dangerous_deserialization=True` when loading the local FAISS index. Only load FAISS index files that you created or fully trust.
-
-## License
-
-No license has been specified for this repository yet.
