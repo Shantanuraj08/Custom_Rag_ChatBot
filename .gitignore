@@ -2,3 +2,4 @@ ragenv
 .env
 data/faiss_index/
 custom_assistant/__pycache__/
+notes.txt
