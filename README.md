@@ -1,6 +1,6 @@
 # Custom RAG ChatBot
 
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions about an employee policy document. The application loads the policy file, splits it into smaller chunks, creates vector embeddings, stores them in a local FAISS index, and retrieves relevant information before generating an answer with a Groq-hosted language model.
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions about an employee policy document. The application loads the policy file, splits it into smaller chunks, creates vector embeddings, and retrieves relevant information to generate grounded answers.
 
 ## What this project does
 
@@ -206,4 +206,8 @@ python -m streamlit run app.py
 - FAISS
 - python-dotenv
 
+## Tip and current limitation
 
+**Tip:** Upload or replace the policy file with a document specific to your needs to turn this project into a personalized chatbot. For example, you can use a company handbook, product guide, course material, or any other relevant text document and then rebuild the FAISS index.
+
+**Current limitation:** The application currently supports only **one file at a time**. To use a different file, replace the existing document and rebuild the vector store before restarting the application.
