@@ -1,0 +1,33 @@
+LEAVE
+• Annual leave: 18 working days/year.
+• Sick leave: 10 days/year; notify your manager promptly.
+• Casual leave: 6 days/year.
+• Public holidays follow the location calendar.
+• Ask HR about parental leave eligibility and duration.
+• Unpaid leave needs manager and HR approval.
+• Apply 5 working days ahead through the HR portal when possible. Report emergencies promptly.
+• Up to 5 unused annual-leave days may carry forward with approval. Sick and casual leave do not.
+• Leave is not approved until confirmed.
+
+WORKING HOURS
+Monday–Friday, 9:30 a.m.–6:00 p.m., including a 30-minute lunch. Approved team schedules may differ. Record attendance and get overtime approval.
+
+REMOTE WORK
+Up to 2 remote days weekly with manager approval. Use approved devices and protect company data.
+
+CONDUCT
+Treat colleagues respectfully. Harassment, discrimination, bullying, and retaliation are prohibited. Report concerns to HR or a manager.
+
+SECURITY
+Use strong passwords and MFA. Never share credentials. Store files in approved systems and report phishing, lost devices, or data exposure to IT.
+
+AI AND PRIVACY
+Use approved AI tools only. Never enter confidential, personal, or customer data into unapproved services. Check AI output. Access confidential data only for authorized work.
+
+EXPENSES
+Get approval before business purchases. Submit receipts within 30 days. Keep company equipment secure and return it when requested or when employment ends.
+
+PERFORMANCE AND HELP
+Managers should set clear goals and provide feedback. Contact HR about benefits, leave, or workplace concerns. If a policy is unclear, consult current approved documents or ask HR. Never assume an undocumented exception is approved.
+
+Fictional RAG test data, not official policy or legal advice. Replace with reviewed company rules before real use.
